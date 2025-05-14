@@ -67,14 +67,14 @@
 2. 开发 DApp 前端项目  |  [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467503)  
 
 
-**第五章：Monad 101**
+**第五章：Monad 101**  |  [task5](./task/task5.md)
 
-1. Monad 101
+1. Monad 101  |  [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467432)  
 
 
-**第六章：Monad 项目实战**
+**第六章：Monad 项目实战**  |  [task6](./task/task6.md)
 
-1. Monad 项目实战
+1. Monad 项目实战  |  [课程](https://openbuild.xyz/learn/challenges/2060691796/1740467572)  
 
 
 ---
@@ -91,8 +91,8 @@
 | [task2](./task/task2.md) | 0.5 \$MON         | [奖励🎉](./reward/task2.md) |
 | [task3](./task/task3.md) | 1 \$MON           | [奖励🎉](./reward/task3.md) |
 | [task4](./task/task4.md) | 3 \$MON           | [奖励🎉](./reward/task4.md) |
-| task5                    | 1 \$MON           |                             |
-| task6                    | 4 \$MON           |                             |
+| [task5](./task/task5.md) | 1 \$MON           | [奖励🎉](./reward/task5.md) |
+| [task6](./task/task6.md) | 4 \$MON           | [奖励🎉](./reward/task6.md) |
 
 完成所有 Task 可获得结课证书 NFT（测试网）， 同时获得以下精美周边一份（4选1随机抽取）。
 
