@@ -17,3 +17,6 @@
 | q446191796      | 0xe83d0942b873e019a17c2a908b100d1051387ca3 | [1 MON](https://testnet.monadexplorer.com/tx/0x73dadf69e484ca96180a3e49f27634df0b2311702109a43e67be91d48164a4e4) |
 | yzjc999         | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [1 MON](https://testnet.monadexplorer.com/tx/0xad98aff3a58565e61f4543bed2adbdaf24ace7ac063dbc3f4d4c7031136b679c) |
 | karl            | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [1 MON](https://testnet.monadexplorer.com/tx/0x5d68b5af1bca7ff9a85fce0fca47a79260e20627637e6ccb2255aef74c1250a8) |
+| luAmy           | 0x3FF5607Bb3ec88749ed1Bb27fCCd047aBf60619e | [1 MON](https://testnet.monadexplorer.com/tx/0x0feaf2a945bf559508a14720c3f67aeb6554e56ca4854578c8237d6ef7acca4b) |
+| huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [1 MON](https://testnet.monadexplorer.com/tx/0x913da5aa9250b483aabfaf17a58eb125ec7f85e4410f576d800dc05091bf4808) |
+| qmanz           | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x40a4c3706857f5c658605bf7920ad225566792420d9921bf7db4a95cc946038c) |

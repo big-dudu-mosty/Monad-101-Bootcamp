@@ -31,5 +31,6 @@
 | urlyy         | 0xDdC3DAF15325c1d042646CcB7a25baD1FFB7f1bd | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd7f387a7859a65ad5514c8eded5e5b5c643d3ca4117bf5819b030f25daadb98a) |
 | Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xbf39e9ba4325f6e1adba3535c46af299c642599dc32e528f2f4926bd66ba9f20) |
 | karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x65f51bb6c8ee7c29368a0b3c5d29f6e3eb107dcfeea4657d70169248946b2a21) |
+| qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd089a977f67d86c9db2e8482d8e9ee8c4e2ce9d21d0280c86baa466e559a523c) |
 
 
