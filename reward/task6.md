@@ -16,3 +16,5 @@
 | luAmy           | 0x3FF5607Bb3ec88749ed1Bb27fCCd047aBf60619e | [4 MON](https://testnet.monadexplorer.com/tx/0x5aff9d033e417f4ae628b4642037b447e9cc74d3c36549e8188ccda7d1e16394) |
 | qmanz           | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [4 MON](https://testnet.monadexplorer.com/tx/0x8a555115606bf16150a026c850eb93aab7c058729ee0e225f8cd51103ab57a59) |
 | huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [4 MON](https://testnet.monadexplorer.com/tx/0xab6a89bdbb43d080b2597fca4c6152136563d8fa3f6b42b209529447dd08e9f0) |
+| q446191796      | 0xe83d0942b873e019a17c2a908b100d1051387ca3 | [4 MON](https://testnet.monadexplorer.com/tx/0xc06b9ba4b8f7dfd923b61030679944045264ef0d32502a35267cac30477d4f92) |
+| yzjc999         | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [4 MON](https://testnet.monadexplorer.com/tx/0xe9e394125ecdb2f7d1da8a2c40c4873fc55492d70dc3d9c68f7052206405d3cb) |

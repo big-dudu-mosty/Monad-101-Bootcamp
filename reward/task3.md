@@ -27,4 +27,5 @@
 | puxinyue      | 0xfD2347cB40e73Fcafb17ade5a8ed6af895eD1c5c | [1 MON](https://testnet.monadexplorer.com/tx/0xa4c0033a8a9410d6033b9c64cb1a7c2d6d239fa2198a0ffc381838bb504336fa) |
 | karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [1 MON](https://testnet.monadexplorer.com/tx/0xc8518e685db747bca2de2d84d935a690c7520f95162eaee946035156540e1191) |
 | qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x476c793e657e3aee6b871c1691a0a25b33e70b03583cfda21b1b3159bc034089) |
-
+| Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x9d2e292f180f195ecb8ec4d0a45659b4be04bea818af0756571fb9e267d52c7c) |
+| vimday        | 0x631ab8EB40588543dF900263F864b6376d56A587 | [1 MON](https://testnet.monadexplorer.com/tx/0x648990d26e69200e51a3a0217d52811f4dfcbb561a4ed1980b0a7c0ae4ed8e16) |

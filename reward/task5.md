@@ -20,3 +20,4 @@
 | luAmy           | 0x3FF5607Bb3ec88749ed1Bb27fCCd047aBf60619e | [1 MON](https://testnet.monadexplorer.com/tx/0x0feaf2a945bf559508a14720c3f67aeb6554e56ca4854578c8237d6ef7acca4b) |
 | huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [1 MON](https://testnet.monadexplorer.com/tx/0x913da5aa9250b483aabfaf17a58eb125ec7f85e4410f576d800dc05091bf4808) |
 | qmanz           | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x40a4c3706857f5c658605bf7920ad225566792420d9921bf7db4a95cc946038c) |
+| bigfatkevin     | 0x4F27608A7B82169946eA1d4B1D2069A52BA446aC | [1 MON](https://testnet.monadexplorer.com/tx/0xed5a0fcb18374330510fa48bdcde9a28ac536c6a03a1741ddbfdf5a09e19f7b3) |
