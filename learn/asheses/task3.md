@@ -1,0 +1,6 @@
+## 第三章：Solidity 开发到部署
+
+1. 在 Monad Testnet 上部署一个 NFT 合约，并提交交易哈希  
+部署合约的交易：	tx:0x7206813660e10760901e73e71446ce9d74acbe94e55a9b2c91df4083b9c635de
+合约地址：0x1015fcfC18Ed6CBf4CCdd5b3932272292131d0aC
+铸造NFT合约：0x216364f89c9347013569a63fef1121c00a14d56a4819f1b59943df367866e3b9
