@@ -18,3 +18,4 @@
 | huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [4 MON](https://testnet.monadexplorer.com/tx/0xab6a89bdbb43d080b2597fca4c6152136563d8fa3f6b42b209529447dd08e9f0) |
 | q446191796      | 0xe83d0942b873e019a17c2a908b100d1051387ca3 | [4 MON](https://testnet.monadexplorer.com/tx/0xc06b9ba4b8f7dfd923b61030679944045264ef0d32502a35267cac30477d4f92) |
 | yzjc999         | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [4 MON](https://testnet.monadexplorer.com/tx/0xe9e394125ecdb2f7d1da8a2c40c4873fc55492d70dc3d9c68f7052206405d3cb) |
+| karl            | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [4 MON](https://testnet.monadexplorer.com/tx/0x73c3a3e9943ed70e62c19ae5e5e96f1a7d391ce3dfa7ed68400f20a24204bc70) |
