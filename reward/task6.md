@@ -19,3 +19,5 @@
 | q446191796      | 0xe83d0942b873e019a17c2a908b100d1051387ca3 | [4 MON](https://testnet.monadexplorer.com/tx/0xc06b9ba4b8f7dfd923b61030679944045264ef0d32502a35267cac30477d4f92) |
 | yzjc999         | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [4 MON](https://testnet.monadexplorer.com/tx/0xe9e394125ecdb2f7d1da8a2c40c4873fc55492d70dc3d9c68f7052206405d3cb) |
 | karl            | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [4 MON](https://testnet.monadexplorer.com/tx/0x73c3a3e9943ed70e62c19ae5e5e96f1a7d391ce3dfa7ed68400f20a24204bc70) |
+| zpjayyy         | 0xe1f5e7b5370e5452fd674975fee63e52de283545 | [4 MON](https://testnet.monadexplorer.com/tx/0x3346a711b54c95c323286fd9e63fe930409a6cd7a6a7a8a2e12b0a22c0f79c72) |
+| Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [4 MON](https://testnet.monvision.io/tx/0x928f67c51a2ace2e7a9f322628ef424995d2ac9e20d91720207f1f69eb6c6ece) |

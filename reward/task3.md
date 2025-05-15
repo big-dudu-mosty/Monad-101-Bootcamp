@@ -29,3 +29,5 @@
 | qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x476c793e657e3aee6b871c1691a0a25b33e70b03583cfda21b1b3159bc034089) |
 | Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x9d2e292f180f195ecb8ec4d0a45659b4be04bea818af0756571fb9e267d52c7c) |
 | vimday        | 0x631ab8EB40588543dF900263F864b6376d56A587 | [1 MON](https://testnet.monadexplorer.com/tx/0x648990d26e69200e51a3a0217d52811f4dfcbb561a4ed1980b0a7c0ae4ed8e16) |
+| Katherine     | 0x525e72A8575B4954e47DB5df315d530bbF49Ec59 | [1 MON](https://testnet.monvision.io/tx/0xe156333860bc108f532aa74f33c659ea344bdbfe0cc1cdac901585ecabb9f361) |
+| krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [1 MON](https://testnet.monadexplorer.com/tx/0x8f8c481c4aafd324da9ddb5eb9745dfbe160892b121fcc352ee98fc95b2ed730) |
