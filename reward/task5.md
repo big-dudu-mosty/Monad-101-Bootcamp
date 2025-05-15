@@ -21,3 +21,7 @@
 | huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [1 MON](https://testnet.monadexplorer.com/tx/0x913da5aa9250b483aabfaf17a58eb125ec7f85e4410f576d800dc05091bf4808) |
 | qmanz           | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x40a4c3706857f5c658605bf7920ad225566792420d9921bf7db4a95cc946038c) |
 | bigfatkevin     | 0x4F27608A7B82169946eA1d4B1D2069A52BA446aC | [1 MON](https://testnet.monadexplorer.com/tx/0xed5a0fcb18374330510fa48bdcde9a28ac536c6a03a1741ddbfdf5a09e19f7b3) |
+| oortling        | 0x421c2afdA5e568e58edD0e5D0CBb9CAC8Ef0e6a9 | [1 MON](https://testnet.monadexplorer.com/tx/0x3d462a442e6707e7e58656afcdbbac939221d2ec81953688a275f8598bcd4713) |
+| zpjayyy         | 0xe1f5e7b5370e5452fd674975fee63e52de283545 | [1 MON](https://testnet.monadexplorer.com/tx/0x5fe796eadba01549c19ad02e3e7e5d7833ea56893d8266a90d2bf70374c2adfa) |
+| Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x4d32117a1741667b8392fd2b9d0b4eccee28caf39bfb402735c9e4663091948a) |
+ 

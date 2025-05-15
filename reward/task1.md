@@ -33,5 +33,6 @@
 | karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x65f51bb6c8ee7c29368a0b3c5d29f6e3eb107dcfeea4657d70169248946b2a21) |
 | qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd089a977f67d86c9db2e8482d8e9ee8c4e2ce9d21d0280c86baa466e559a523c) |
 | asheses       | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [0.5 MON](https://testnet.monadexplorer.com/tx/0x3afe3f253004d77d802ca68ff805b08a8b6d70bc0aef36a33e3024dbf2e14f7f) |
+| Katherine     | 0x525e72A8575B4954e47DB5df315d530bbF49Ec59 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x89a487093dd3f6bf0330fb0e889bcc1339c0f1b8edd1f09e56314d817d78a9ad) |
 
-
+ 
