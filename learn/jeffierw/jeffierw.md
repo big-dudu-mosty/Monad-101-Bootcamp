@@ -1,0 +1,6 @@
+- 昵称：0xpest
+- GitHub 用户名：jeffierw
+- EVM 钱包地址：0x119b4976ca5d34a7ed501b8fba9f629ad58a4435
+- 技术栈：JavaScript Move Solidity
+- Twitter: @HiYepWan
+- 自我介绍：前端开发，Web3 新手
