@@ -1,0 +1,6 @@
+- 昵称：  Cedric520
+- GitHub 用户名：  Cedric520
+- EVM 钱包地址：  (不明白的可以学完基础知识后再填)  
+- 技术栈：  java，solidity
+- Twitter:   @hhh57274163
+- 自我介绍：  一名菜鸡java工程师，想入行web3，目前在努力自学中。
