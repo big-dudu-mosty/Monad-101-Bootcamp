@@ -37,4 +37,4 @@
 | krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x0321a3347e98e2d55e7487cbb105b5156972a6ab3ae46482dff4e5b98b780bec) |
 | jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x15d4bcb5075b3289c302f871d1597e7e13b7f357a56c77f85819d060dcb770ff) |
 | futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x5dfaa156a8b1544e152c6b3a8146c1c9d65aa9dec7d307e19246fc4e6a870632) |
- 
+| brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [0.5 MON](https://testnet.monadexplorer.com/tx/0x2d531f15745464846d45fa6055c1eefdedd041be3ca86f4880e4015298fca7d2) |
