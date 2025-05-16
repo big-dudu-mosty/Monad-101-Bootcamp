@@ -24,4 +24,5 @@
 | oortling        | 0x421c2afdA5e568e58edD0e5D0CBb9CAC8Ef0e6a9 | [1 MON](https://testnet.monadexplorer.com/tx/0x3d462a442e6707e7e58656afcdbbac939221d2ec81953688a275f8598bcd4713) |
 | zpjayyy         | 0xe1f5e7b5370e5452fd674975fee63e52de283545 | [1 MON](https://testnet.monadexplorer.com/tx/0x5fe796eadba01549c19ad02e3e7e5d7833ea56893d8266a90d2bf70374c2adfa) |
 | Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x4d32117a1741667b8392fd2b9d0b4eccee28caf39bfb402735c9e4663091948a) |
+| vimday          | 0x631ab8EB40588543dF900263F864b6376d56A587 | [1 MON](https://testnet.monadexplorer.com/tx/0xee8936547322585ca9a9e52cf41085379b6705286a72b6e0329a59dd590ea263) |
  
