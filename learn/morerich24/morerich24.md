@@ -1,0 +1,6 @@
+- 昵称： morerich24
+- GitHub 用户名： morerich24
+- EVM 钱包地址： 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1
+- 技术栈： Java Solidity
+- Twitter: https://x.com/MiNelcis2024
+- 自我介绍： 2 年后端开发 复习下 solidity
