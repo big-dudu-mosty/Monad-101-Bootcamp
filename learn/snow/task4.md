@@ -16,7 +16,7 @@ function buySquare(uint8 idx, uint256 color) public payable {
 2、前端部分
    //web3对象初始化，以及通过ABI获取合约
    web3 = new Web3(window.ethereum);
-   contract = new web3.eth.Contract(contractABI, "0xE60E703E4fA59Ba7512963a69De234455955758a");
+   contract = new web3.eth.Contract(contractABI, "0xd9145CCE52D386f254917e481eB44e9943F39138");
    // 监听合约的购买事件
    contract.events.SquarePurchased()
    .on('data', (event) => {
