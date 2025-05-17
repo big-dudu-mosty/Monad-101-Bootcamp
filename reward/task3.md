@@ -32,3 +32,5 @@
 | Katherine     | 0x525e72A8575B4954e47DB5df315d530bbF49Ec59 | [1 MON](https://testnet.monvision.io/tx/0xe156333860bc108f532aa74f33c659ea344bdbfe0cc1cdac901585ecabb9f361) |
 | krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [1 MON](https://testnet.monadexplorer.com/tx/0x8f8c481c4aafd324da9ddb5eb9745dfbe160892b121fcc352ee98fc95b2ed730) |
 | asheses       | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [1 MON](https://testnet.monadexplorer.com/tx/0xbe28bb8f20bb883445646e5e7427c4cc80df265384df6901641ef61cbc498f83) |
+| siphonelee    | 0x47aCCDD4371ba9AD9C033b081F4c1c12D78E3F76 | [1 MON](https://testnet.monadexplorer.com/tx/0x23c25bf49ba919efefe8ef03c7cf7076a64be9372390453a330db18240841e3b) |
+| jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [1 MON](https://testnet.monadexplorer.com/tx/0x1a18c2f2d93a50ed2bd288cf4cc86ef847eb6720cf5e8397461807cb9d8e1591) |
