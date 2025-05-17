@@ -29,3 +29,4 @@
 | qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [3 MON](https://testnet.monadexplorer.com/tx/0x1e09802855dff229163667ead8f4ac5d845ec3fc17c0d616efcd8f4f054b6c1b) |
 | Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [3 MON](https://testnet.monadexplorer.com/tx/0x34b57cea7d479421396fb27582d7a8492e3ff4d068c10b58c34d6af37ed2e379) |
 | vimday        | 0x631ab8EB40588543dF900263F864b6376d56A587 | [3 MON](https://testnet.monadexplorer.com/tx/0xde4e40d4022410f79964c03eacde6d4d776219b33446c315d5c549d1472baeda) |
+| krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [3 MON](https://testnet.monadexplorer.com/tx/0xddf0b87dd73d78cda429ac2af903ace4585922aebe9a69c8164b08c03e09c470) |
