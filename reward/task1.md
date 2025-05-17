@@ -40,3 +40,4 @@
 | brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [0.5 MON](https://testnet.monadexplorer.com/tx/0x2d531f15745464846d45fa6055c1eefdedd041be3ca86f4880e4015298fca7d2) |
 | xiaobaili2015 | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xf3b3cbfae7e402a1577477483fba25d9de10258d06fe5065f468a658dd19f995) |
 | swiftlion2    | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xee86edc95e4bc981e9dfbddc66496a33fd933605f368367ae54482a094feab04) |
+| Cedric520     | 0x418E326426D7a77092279a4eD1260CF446F071f1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x15c8c2441afc10b7b5da07b862841f8a47a45a969ae963fa15a532a84832a0a8) |
