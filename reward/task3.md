@@ -25,3 +25,15 @@
 | yzjc999       | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [1 MON](https://testnet.monadexplorer.com/tx/0x77d9cafacd07e40e3ed23a198e71188127cc30d6cc5227bbe02913e6d9738170) |
 | qiaopengjun5162| 0xE91e2DF7cE50BCA5310b7238F6B1Dfcd15566bE5 | [1 MON](https://testnet.monadexplorer.com/tx/0x79bf522d79c89d198e3543b3bfe26c69e05116463740fa5039ca8ec53310a0c6) |
 | puxinyue      | 0xfD2347cB40e73Fcafb17ade5a8ed6af895eD1c5c | [1 MON](https://testnet.monadexplorer.com/tx/0xa4c0033a8a9410d6033b9c64cb1a7c2d6d239fa2198a0ffc381838bb504336fa) |
+| karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [1 MON](https://testnet.monadexplorer.com/tx/0xc8518e685db747bca2de2d84d935a690c7520f95162eaee946035156540e1191) |
+| qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [1 MON](https://testnet.monadexplorer.com/tx/0x476c793e657e3aee6b871c1691a0a25b33e70b03583cfda21b1b3159bc034089) |
+| Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x9d2e292f180f195ecb8ec4d0a45659b4be04bea818af0756571fb9e267d52c7c) |
+| vimday        | 0x631ab8EB40588543dF900263F864b6376d56A587 | [1 MON](https://testnet.monadexplorer.com/tx/0x648990d26e69200e51a3a0217d52811f4dfcbb561a4ed1980b0a7c0ae4ed8e16) |
+| Katherine     | 0x525e72A8575B4954e47DB5df315d530bbF49Ec59 | [1 MON](https://testnet.monvision.io/tx/0xe156333860bc108f532aa74f33c659ea344bdbfe0cc1cdac901585ecabb9f361) |
+| krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [1 MON](https://testnet.monadexplorer.com/tx/0x8f8c481c4aafd324da9ddb5eb9745dfbe160892b121fcc352ee98fc95b2ed730) |
+| asheses       | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [1 MON](https://testnet.monadexplorer.com/tx/0xbe28bb8f20bb883445646e5e7427c4cc80df265384df6901641ef61cbc498f83) |
+| siphonelee    | 0x47aCCDD4371ba9AD9C033b081F4c1c12D78E3F76 | [1 MON](https://testnet.monadexplorer.com/tx/0x23c25bf49ba919efefe8ef03c7cf7076a64be9372390453a330db18240841e3b) |
+| jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [1 MON](https://testnet.monadexplorer.com/tx/0x1a18c2f2d93a50ed2bd288cf4cc86ef847eb6720cf5e8397461807cb9d8e1591) |
+| futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xa307aeb5080c3c5f02b8cea66db5eaabbb8c6da92fe07d4ddea4f9029d78efc2) |
+| brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [1 MON](https://testnet.monadexplorer.com/tx/0x7e2194b0e29a116bc653638865682962278563ce53aff5e07ac8c02dad82ac38) |
+| xiaobaili2015 | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [1 MON](https://testnet.monadexplorer.com/tx/0x8d2d8d1c2b22b6f15d63fa1897ae3103864975249bb54193c4e2674c2bdf7f47) |

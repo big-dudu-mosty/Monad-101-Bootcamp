@@ -1,0 +1,6 @@
+- 昵称：Poy Song
+- GitHub 用户名：poyone
+- 技术栈：Solidity, TS, Python
+- Twitter: @onepo04802459
+- 自我介绍：Web3找工作中
+- Wallet：0x56dA7a0458e405428f2F7d456497D5fa8b083EeC

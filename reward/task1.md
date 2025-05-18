@@ -30,6 +30,18 @@
 | puxinyue      | 0xfD2347cB40e73Fcafb17ade5a8ed6af895eD1c5c | [0.5 MON](https://testnet.monadexplorer.com/tx/0x71417aabbf4d1a3ed26fa8eebc7f91702b4cc40ff1dca136df40ff4725487dc9) |
 | urlyy         | 0xDdC3DAF15325c1d042646CcB7a25baD1FFB7f1bd | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd7f387a7859a65ad5514c8eded5e5b5c643d3ca4117bf5819b030f25daadb98a) |
 | Risker-C      | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xbf39e9ba4325f6e1adba3535c46af299c642599dc32e528f2f4926bd66ba9f20) |
-
-
-
+| karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x65f51bb6c8ee7c29368a0b3c5d29f6e3eb107dcfeea4657d70169248946b2a21) |
+| qmanz         | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd089a977f67d86c9db2e8482d8e9ee8c4e2ce9d21d0280c86baa466e559a523c) |
+| asheses       | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [0.5 MON](https://testnet.monadexplorer.com/tx/0x3afe3f253004d77d802ca68ff805b08a8b6d70bc0aef36a33e3024dbf2e14f7f) |
+| Katherine     | 0x525e72A8575B4954e47DB5df315d530bbF49Ec59 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x89a487093dd3f6bf0330fb0e889bcc1339c0f1b8edd1f09e56314d817d78a9ad) |
+| krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x0321a3347e98e2d55e7487cbb105b5156972a6ab3ae46482dff4e5b98b780bec) |
+| jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x15d4bcb5075b3289c302f871d1597e7e13b7f357a56c77f85819d060dcb770ff) |
+| futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x5dfaa156a8b1544e152c6b3a8146c1c9d65aa9dec7d307e19246fc4e6a870632) |
+| brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [0.5 MON](https://testnet.monadexplorer.com/tx/0x2d531f15745464846d45fa6055c1eefdedd041be3ca86f4880e4015298fca7d2) |
+| xiaobaili2015 | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xf3b3cbfae7e402a1577477483fba25d9de10258d06fe5065f468a658dd19f995) |
+| swiftlion2    | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xee86edc95e4bc981e9dfbddc66496a33fd933605f368367ae54482a094feab04) |
+| Cedric520     | 0x418E326426D7a77092279a4eD1260CF446F071f1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x15c8c2441afc10b7b5da07b862841f8a47a45a969ae963fa15a532a84832a0a8) |
+| morerich24    | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xbf892c7ec21207f3ae2a35ae6eb93c68a168c213e51e1ac724b29cb0c645f5c8) |
+| fufu0917      | 0xdc592e3723fc0d9412c1368146e112cfbbce77a9 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xc7c758c5dc0a070c7b6f7737641cd701acc624314c60e512b26fbf4c83b07926) |
+| siphonelee    | 0x47aCCDD4371ba9AD9C033b081F4c1c12D78E3F76 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xc369bcfb29e8450ac1207c340af1404fef849d9d7ec9496fc3442f3ec9495854) |
+| poyone        | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [0.5 MON](https://testnet.monadexplorer.com/tx/0x874c3e9a9c46a3136a64b4462beae19e07627e705570c46fc84becc5fcc6e5b1) |

@@ -13,3 +13,16 @@
 | lispking        | 0xc2883daf2a72697732d9bf36cba6a31f07c4d472 | [4 MON](https://testnet.monadexplorer.com/tx/0x298025c8459fbb127da0a16d71ce9dc8aea01b34f9c892ab90d5e359c90542e9) |
 | Bystander2      | 0xa5d1f687B741af9b2B7c2B0D77757C6a0De69055 | [4 MON](https://testnet.monadexplorer.com/tx/0x7ce974be6e3866ca6d16330f46b216c6f3ff4be52c2f28f3f38135fb1273627c) |
 | jjeejj          | 0x99BB50BC007D6333374FaB2c8D77bD43Fe9Ce2F9 | [4 MON](https://testnet.monadexplorer.com/tx/0xa6a23d8333bf3a33f171c0a25429ba02c8835b6236c02f5975d059f1314ac7c0) |
+| luAmy           | 0x3FF5607Bb3ec88749ed1Bb27fCCd047aBf60619e | [4 MON](https://testnet.monadexplorer.com/tx/0x5aff9d033e417f4ae628b4642037b447e9cc74d3c36549e8188ccda7d1e16394) |
+| qmanz           | 0xf0effE445bF894E9fB4Cfaed896E8837964Ba223 | [4 MON](https://testnet.monadexplorer.com/tx/0x8a555115606bf16150a026c850eb93aab7c058729ee0e225f8cd51103ab57a59) |
+| huzhengen       | 0x22808912E21FE9923ab421741eDD99C611A2661C | [4 MON](https://testnet.monadexplorer.com/tx/0xab6a89bdbb43d080b2597fca4c6152136563d8fa3f6b42b209529447dd08e9f0) |
+| q446191796      | 0xe83d0942b873e019a17c2a908b100d1051387ca3 | [4 MON](https://testnet.monadexplorer.com/tx/0xc06b9ba4b8f7dfd923b61030679944045264ef0d32502a35267cac30477d4f92) |
+| yzjc999         | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [4 MON](https://testnet.monadexplorer.com/tx/0xe9e394125ecdb2f7d1da8a2c40c4873fc55492d70dc3d9c68f7052206405d3cb) |
+| karl            | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [4 MON](https://testnet.monadexplorer.com/tx/0x73c3a3e9943ed70e62c19ae5e5e96f1a7d391ce3dfa7ed68400f20a24204bc70) |
+| zpjayyy         | 0xe1f5e7b5370e5452fd674975fee63e52de283545 | [4 MON](https://testnet.monadexplorer.com/tx/0x3346a711b54c95c323286fd9e63fe930409a6cd7a6a7a8a2e12b0a22c0f79c72) |
+| Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [4 MON](https://testnet.monvision.io/tx/0x928f67c51a2ace2e7a9f322628ef424995d2ac9e20d91720207f1f69eb6c6ece) |
+| vimday          | 0x631ab8EB40588543dF900263F864b6376d56A587 | [4 MON](https://testnet.monadexplorer.com/tx/0x9bcc297c56380842f3822893aeba1cfc5e6d187a7cdcc829ce2ca6db170d008c) |
+| Been101         | 0xc15A283788Ae5194357a93F43A8e257046235cfd | [4 MON](https://testnet.monadexplorer.com/tx/0xb8b214fddc1774064ada215faa416c2857463d7b41b400b852fed8c0bf2d3638) |
+| bigfatkevin     | 0x4F27608A7B82169946eA1d4B1D2069A52BA446aC | [4 MON](https://testnet.monadexplorer.com/tx/0x93b3f46de822f99b1f2618844a609080309b672923141a6aa01aaff7a41500a6) |
+| krypton         | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [4 MON](https://testnet.monadexplorer.com/tx/0xb298189d3a912d547ac89232a58ea3d235cb2620cbb9fd676961f25e2f325900) |
+| kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [4 MON](https://testnet.monadexplorer.com/tx/0x46e29883213aafa21524719ee1842cdd15da2e740fc7d304cb6deb068c2a3a68) |
