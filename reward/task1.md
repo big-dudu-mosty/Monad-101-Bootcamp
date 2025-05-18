@@ -44,3 +44,4 @@
 | morerich24    | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xbf892c7ec21207f3ae2a35ae6eb93c68a168c213e51e1ac724b29cb0c645f5c8) |
 | fufu0917      | 0xdc592e3723fc0d9412c1368146e112cfbbce77a9 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xc7c758c5dc0a070c7b6f7737641cd701acc624314c60e512b26fbf4c83b07926) |
 | siphonelee    | 0x47aCCDD4371ba9AD9C033b081F4c1c12D78E3F76 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xc369bcfb29e8450ac1207c340af1404fef849d9d7ec9496fc3442f3ec9495854) |
+| poyone        | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [0.5 MON](https://testnet.monadexplorer.com/tx/0x874c3e9a9c46a3136a64b4462beae19e07627e705570c46fc84becc5fcc6e5b1) |

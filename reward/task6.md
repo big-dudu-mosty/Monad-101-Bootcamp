@@ -23,3 +23,6 @@
 | Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [4 MON](https://testnet.monvision.io/tx/0x928f67c51a2ace2e7a9f322628ef424995d2ac9e20d91720207f1f69eb6c6ece) |
 | vimday          | 0x631ab8EB40588543dF900263F864b6376d56A587 | [4 MON](https://testnet.monadexplorer.com/tx/0x9bcc297c56380842f3822893aeba1cfc5e6d187a7cdcc829ce2ca6db170d008c) |
 | Been101         | 0xc15A283788Ae5194357a93F43A8e257046235cfd | [4 MON](https://testnet.monadexplorer.com/tx/0xb8b214fddc1774064ada215faa416c2857463d7b41b400b852fed8c0bf2d3638) |
+| bigfatkevin     | 0x4F27608A7B82169946eA1d4B1D2069A52BA446aC | [4 MON](https://testnet.monadexplorer.com/tx/0x93b3f46de822f99b1f2618844a609080309b672923141a6aa01aaff7a41500a6) |
+| krypton         | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [4 MON](https://testnet.monadexplorer.com/tx/0xb298189d3a912d547ac89232a58ea3d235cb2620cbb9fd676961f25e2f325900) |
+| kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [4 MON](https://testnet.monadexplorer.com/tx/0x46e29883213aafa21524719ee1842cdd15da2e740fc7d304cb6deb068c2a3a68) |

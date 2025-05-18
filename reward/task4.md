@@ -22,7 +22,7 @@
 | yzjc999       | 0x17b64ba679e095ac87a400b6f6ac8cd591b517f9 | [3 MON](https://testnet.monadexplorer.com/tx/0x08a35e8c3e86673e9fc43d99e7ef74c432c54e12c074bc447fd38c4baef00468) |
 | huzhengen     | 0x22808912E21FE9923ab421741eDD99C611A2661C | [3 MON](https://testnet.monadexplorer.com/tx/0xba0f344ae687357f51535e22be0c5ebe38457194eeae155b6f441ed7e834cd9b) |
 | qiaopengjun5162| 0xE91e2DF7cE50BCA5310b7238F6B1Dfcd15566bE5 | [3 MON](https://testnet.monadexplorer.com/tx/0x79ded2ef56811e634f0fffbfe4676fc9fd9c5fce98046b8af7b89deba513a325) |
-| puxinyue| 0xfD2347cB40e73Fcafb17ade5a8ed6af895eD1c5c       | [3 MON](https://testnet.monadexplorer.com/tx/0xc718c24b3b65a5fff45ea6f75cf4f9bdeb71f93d2dd97dac9f84c8f2fe60c0e3) |
+| puxinyue      | 0xfD2347cB40e73Fcafb17ade5a8ed6af895eD1c5c | [3 MON](https://testnet.monadexplorer.com/tx/0xc718c24b3b65a5fff45ea6f75cf4f9bdeb71f93d2dd97dac9f84c8f2fe60c0e3) |
 | Bystander2    | 0xa5d1f687B741af9b2B7c2B0D77757C6a0De69055 | [3 MON](https://testnet.monadexplorer.com/tx/0xfba6a7940112adf360e3932579e5b519259d1fe618aeec24ddc580d73a484ffe) |
 | luAmy         | 0x3FF5607Bb3ec88749ed1Bb27fCCd047aBf60619e | [3 MON](https://testnet.monadexplorer.com/tx/0xa052a7a41793ebfcba7173ded58e8400c31fe50e84ef570adb2a0dc5ab36516a) |
 | karl          | 0xd1b0a9e9e6e7664ef4db0fa84df4280c69333333 | [3 MON](https://testnet.monadexplorer.com/tx/0x27c425eb51bf2f1d6351761b4973afc2adee21c82e3863b921d0b15d308c58a9) |
@@ -31,3 +31,5 @@
 | vimday        | 0x631ab8EB40588543dF900263F864b6376d56A587 | [3 MON](https://testnet.monadexplorer.com/tx/0xde4e40d4022410f79964c03eacde6d4d776219b33446c315d5c549d1472baeda) |
 | krypton       | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [3 MON](https://testnet.monadexplorer.com/tx/0xddf0b87dd73d78cda429ac2af903ace4585922aebe9a69c8164b08c03e09c470) |
 | jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [3 MON](https://testnet.monadexplorer.com/tx/0x89b907e65d1f640b22ee9364b800d45656ce34cf0865a6da7a6af439ca7af203) |
+| futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [3 MON](https://testnet.monadexplorer.com/tx/0xaee8da0c18a10efc2461c86c9b30d0014965280c91b156c7800601acc363a517) |
+| brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [3 MON](https://testnet.monadexplorer.com/tx/0x5c4a507ed7439c7a49a0774e88ddd1deb13a00e3d7c35ad116b1c1f74fc9a83b) |

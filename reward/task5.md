@@ -26,3 +26,6 @@
 | Risker-C        | 0x0Fd110F1237711857474D9f6963E75206798fB91 | [1 MON](https://testnet.monadexplorer.com/tx/0x4d32117a1741667b8392fd2b9d0b4eccee28caf39bfb402735c9e4663091948a) |
 | vimday          | 0x631ab8EB40588543dF900263F864b6376d56A587 | [1 MON](https://testnet.monadexplorer.com/tx/0xee8936547322585ca9a9e52cf41085379b6705286a72b6e0329a59dd590ea263) |
 | BrucerTao       | 0x1a8374b0F0D1074849e0cA31589532C2ad2806d8 | [1 MON](https://testnet.monadexplorer.com/tx/0x0fdc098b84c1d29fef3b8181d2b09e9637d379c3540346eba492ce0721a91933) |
+| krypton         | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [1 MON](https://testnet.monadexplorer.com/tx/0xf6d91ed31c3198c880788fa3041ed684a38c44ba7d63e0b040514b9530adbd1c) |
+| kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [1 MON](https://testnet.monadexplorer.com/tx/0x4e2cd1b38a352d42fbe93107c2b59b139228b6538cc15b4dc29831322be223fb) |
+| futuwxq         | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xc3d97d73066e323971e796e1f9240926ad2d39de41da76c1bf2840adecc7b2b2) |
