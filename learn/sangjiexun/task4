@@ -1,0 +1,89 @@
+## 第四章：Web3 前端 101
+
+1. 完成课程的实操后，请思考如何监听合约事件；当有别人购买了像素格子的时候，如何及时通过监听事件更新 UI ? 请提交示例代码
+
+在 Web3 前端开发中，我们可以使用 ethers.js 库来监听智能合约事件。以下是一个示例，展示了如何监听合约事件并在有别人购买像素格子时更新 UI。
+
+### 环境准备
+首先，确保你已经安装了 ethers.js 库。可以使用以下命令进行安装：
+
+```bash
+npm install ethers
+ ```
+
+### 示例代码
+假设我们有一个包含 PixelPurchased 事件的智能合约，当有人购买像素格子时会触发该事件。以下是前端代码示例：
+
+```jsx
+import React, { useState, useEffect } from 'react';
+import { ethers } from 'ethers';
+import PixelContractABI from './PixelContractABI.json';
+
+const PixelGridApp = () => {
+    const [pixels, setPixels] = useState([]);
+    const contractAddress = 'YOUR_CONTRACT_ADDRESS';
+
+    useEffect(() => {
+        const init = async () => {
+            // 检查浏览器是否支持 Ethereum
+            if (typeof window.ethereum !== 'undefined') {
+                const provider = new ethers.BrowserProvider(window.ethereum);
+                const contract = new ethers.Contract(contractAddress, PixelContractABI, provider);
+
+                // 监听 PixelPurchased 事件
+                contract.on('PixelPurchased', (buyer, pixelId, price) => {
+                    console.log(`Pixel ${pixelId} 被 ${buyer} 以 ${price} 价格购买`);
+                    // 这里可以添加更新 UI 的逻辑
+                    updateUI(pixelId);
+                });
+            }
+        };
+
+        init();
+
+        return () => {
+            // 清理事件监听器
+            if (typeof window.ethereum !== 'undefined') {
+                const provider = new ethers.BrowserProvider(window.ethereum);
+                const contract = new ethers.Contract(contractAddress, PixelContractABI, provider);
+                contract.removeAllListeners('PixelPurchased');
+            }
+        };
+    }, []);
+
+    const updateUI = (pixelId) => {
+        // 模拟更新像素格子状态
+        const newPixels = [...pixels];
+        newPixels[pixelId] = { purchased: true };
+        setPixels(newPixels);
+    };
+
+    return (
+        <div>
+            {/* 渲染像素格子 UI */}
+            {pixels.map((pixel, index) => (
+                <div 
+                    key={index} 
+                    style={{ 
+                        backgroundColor: pixel.purchased ? 'red' : 'green',
+                        width: '20px',
+                        height: '20px',
+                        display: 'inline-block'
+                    }}
+                />
+            ))}
+        </div>
+    );
+};
+
+export default PixelGridApp;
+ ```
+```
+
+### 代码说明
+1. 导入依赖 ：导入 React 、 ethers.js 以及智能合约的 ABI 文件。
+2. 初始化合约 ：在 useEffect 钩子中初始化 ethers.js 提供者和合约实例。
+3. 监听事件 ：使用 contract.on 方法监听 PixelPurchased 事件，当事件触发时，调用 updateUI 函数更新 UI。
+4. 清理监听器 ：在组件卸载时，使用 contract.removeAllListeners 方法移除事件监听器，避免内存泄漏。
+5. 更新 UI ： updateUI 函数根据购买的像素格子 ID 更新 pixels 状态，从而触发 UI 重新渲染。
+请将 YOUR_CONTRACT_ADDRESS 替换为实际的合约地址，并确保 PixelContractABI.json 文件包含正确的合约 ABI。
