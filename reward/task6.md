@@ -32,3 +32,4 @@
 | luky116         | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [4 MON](https://testnet.monadexplorer.com/tx/0x294386a01b462cc9190e3423b545db4c04b3a2d65bc874f26fb86eedcad1f15d) | 
 | poyone          | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [4 MON](https://testnet.monadexplorer.com/tx/0x79ba91e6e2dd13c1e1b26f32293668c45e7e0fc8cc8cd6a39756a7360fca2721) |
 | jeffierw        | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [4 MON](https://testnet.monadexplorer.com/tx/0x04b8f02ae99993d3bd6d06c0e75fa67b2dc8b068a13a5e76408cee52f54da994) |
+| chord233        | 0xe90364b4a7e955a06d27ff67220869d0e8cfe093 | [4 MON](https://testnet.monadexplorer.com/tx/0x95a7c88a80cc67615788619009f31473876ba62caea1a01285c24c94c6a44859) |
