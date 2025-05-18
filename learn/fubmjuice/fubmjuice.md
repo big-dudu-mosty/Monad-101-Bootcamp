@@ -1,1 +1,6 @@
-
+- 昵称：  fubmjuice
+- GitHub 用户名：  fubmjuice
+- EVM 钱包地址： 0xbdaea517920dc1a9e818df6a777dc41d25921811
+- 技术栈：  
+- Twitter:   @dedaoxisi
+- 自我介绍：  了解web3中，半年来学到很多
