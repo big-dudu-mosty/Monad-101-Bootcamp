@@ -1,0 +1,83 @@
+## 第五章：Monad 101
+ 
+Trae
+
+
+
+
+参考了 1 个上下文
+在 Web3 前端开发中，我们可以使用 ethers.js 库来监听智能合约事件。以下是一个示例，展示了如何监听合约事件并在有别人购买像素格子时更新 UI。
+
+环境准备
+首先，确保你已经安装了 ethers.js 库。可以使用以下命令进行安装：
+
+bash
+运行
+npm install ethers
+示例代码
+假设我们有一个包含 PixelPurchased 事件的智能合约，当有人购买像素格子时会触发该事件。以下是前端代码示例：
+
+PixelGridApp.jsx
+应用
+import React, { useState, useEffect } from 'react';import { ethers } from 'ethers';import PixelContractABI from './PixelContractABI.json';const PixelGridApp = () => {    const [pixels, setPixels] = useState    ([]);    const contractAddress =     'YOUR_CONTRACT_ADDRESS';    useEffect(() => {        const init = async () => {            // 检查浏览器是否支持 Ethereum            if (typeof window.ethereum             !== 'undefined') {                const provider = new                 ethers.BrowserProvider                (window.ethereum);                const contract = new                 ethers.Contract                (contractAddress,                 PixelContractABI,                 provider);                // 监听 PixelPurchased                 事件                contract.on                ('PixelPurchased',                 (buyer, pixelId, price)                 => {                    console.log(`Pixel $                    {pixelId} 被 $                    {buyer} 以 ${price}                     价格购买`);                    // 这里可以添加更新                     UI 的逻辑                    updateUI(pixelId);                });            }        };        init();        return () => {            // 清理事件监听器            if (typeof window.ethereum             !== 'undefined') {                const provider = new                 ethers.BrowserProvider                (window.ethereum);                const contract = new                 ethers.Contract                (contractAddress,                 PixelContractABI,                 provider);                contract.                removeAllListeners                ('PixelPurchased');            }        };    }, []);    const updateUI = (pixelId) => {        // 模拟更新像素格子状态        const newPixels = [...pixels];        newPixels[pixelId] = {         purchased: true };        setPixels(newPixels);    };    return (        <div>            {/* 渲染像素格子 UI */}            {pixels.map((pixel, index)             => (                <div                     key={index}                     style={{                         backgroundColor:                         pixel.                        purchased ?                         'red' : 'green',                        width: '20px',                        height: '20px',                        display:                         'inline-block'                    }}                />            ))}        </div>    );};export default PixelGridApp;
+代码说明
+导入依赖：导入 React、ethers.js 以及智能合约的 ABI 文件。
+初始化合约：在 useEffect 钩子中初始化 ethers.js 提供者和合约实例。
+监听事件：使用 contract.on 方法监听 PixelPurchased 事件，当事件触发时，调用 updateUI 函数更新 UI。
+清理监听器：在组件卸载时，使用 contract.removeAllListeners 方法移除事件监听器，避免内存泄漏。
+更新 UI：updateUI 函数根据购买的像素格子 ID 更新 pixels 状态，从而触发 UI 重新渲染。
+请将 YOUR_CONTRACT_ADDRESS 替换为实际的合约地址，并确保 PixelContractABI.json 文件包含正确的合约 ABI。
+
+我
+复制
+删除
+1. 请简述 Monad 中的“延迟执行”概念。该机制如何优化共识与执行之间的关系？
+
+2. 什么是乐观并行执行？其工作流程包含哪些关键步骤？
+
+3. 在 Monad 架构中，如何通过并行执行仍保持交易的线性排序与状态一致性？
+
+4. Monad 的共识机制monadBFT有哪些特点？它与传统 BFT 共识相比有何优势？
+
+5. 为什么 Monad 采用“Optimistic Concurrency Control”？它在处理交易冲突方面是如何工作的？
+Trae
+参考了 1 个上下文
+task5.md
+3-11
+1. Monad 中的“延迟执行”概念及其对共识与执行关系的优化
+延迟执行概念
+在 Monad 中，延迟执行指的是将交易的执行过程推迟到共识过程完成之后。传统的区块链系统中，交易的执行和共识往往是交织进行的，而在 Monad 里，先通过共识机制确定交易的顺序和有效性，之后再按照共识结果依次执行交易。
+
+对共识与执行关系的优化
+提高效率：共识过程不需要等待交易执行结果，节点可以并行处理多个交易的共识，减少了共识的等待时间，提高了整体的处理效率。
+降低复杂度：将共识和执行分离，使得两个过程的逻辑更加清晰，降低了系统设计和实现的复杂度。节点在进行共识时无需考虑交易执行的状态变化，减少了潜在的错误和冲突。
+2. 乐观并行执行及其工作流程
+乐观并行执行概念
+乐观并行执行是一种假设大多数交易之间不会发生冲突的执行策略。在这种策略下，多个交易可以并行执行，而不是按顺序逐个执行，以提高系统的吞吐量。
+
+工作流程关键步骤
+交易分发：将接收到的交易分发到多个执行器，多个执行器可以并行处理不同的交易。
+并行执行：各个执行器独立地执行分配到的交易，假设这些交易之间不会发生冲突。
+冲突检测：在交易执行完成后，检查交易之间是否存在冲突。例如，检查是否有多个交易同时修改了同一个账户的余额。
+冲突解决：如果检测到冲突，对冲突的交易进行回滚，并重新按顺序执行这些交易，以保证状态的一致性。
+3. Monad 架构中并行执行保持交易线性排序与状态一致性的方法
+交易排序：在共识阶段，通过共识机制（如 monadBFT）确定交易的全局顺序。所有节点都按照这个顺序来执行交易，保证了交易的线性排序。
+版本控制：在并行执行交易时，每个执行器使用状态的快照进行操作。如果发生冲突，系统可以回滚到快照状态，重新按顺序执行交易，确保状态的一致性。
+验证机制：在交易执行完成后，节点会对执行结果进行验证。只有当所有节点的执行结果一致时，才会将状态更新到区块链上，保证了状态的一致性。
+4. Monad 的共识机制 monadBFT 特点及与传统 BFT 共识的优势
+特点
+快速最终性：monadBFT 能够在较少的通信轮次内达成共识，使得交易能够快速得到确认，提高了系统的响应速度。
+可扩展性：采用了分层结构和并行处理机制，能够支持更多的节点参与共识，提高了系统的可扩展性。
+容错性：能够容忍一定数量的恶意节点，保证系统在部分节点出现故障或恶意行为时仍能正常运行。
+与传统 BFT 共识的优势
+更高的吞吐量：通过并行处理和优化的通信协议，monadBFT 能够处理更多的交易，提高了系统的吞吐量。
+更低的延迟：快速最终性使得交易确认时间更短，降低了系统的延迟，提升了用户体验。
+更好的可扩展性：传统 BFT 共识在节点数量增加时，性能会显著下降，而 monadBFT 的分层结构和并行处理机制使其能够更好地支持大规模节点。
+5. Monad 采用“Optimistic Concurrency Control”的原因及处理交易冲突的方式
+采用原因
+提高吞吐量：乐观并发控制允许多个交易并行执行，假设大多数交易不会发生冲突，从而提高了系统的吞吐量。
+降低延迟：并行执行减少了交易的等待时间，降低了系统的延迟，提升了用户体验。
+处理交易冲突的方式
+执行阶段：多个交易并行执行，每个交易使用状态的快照进行操作。
+验证阶段：在交易执行完成后，检查交易之间是否存在冲突。例如，检查是否有多个交易同时修改了同一个账户的余额。
+回滚与重试：如果检测到冲突，对冲突的交易进行回滚，并重新按顺序执行这些交易，以保证状态的一致性。
