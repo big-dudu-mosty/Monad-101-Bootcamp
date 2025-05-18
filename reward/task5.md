@@ -29,3 +29,4 @@
 | krypton         | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [1 MON](https://testnet.monadexplorer.com/tx/0xf6d91ed31c3198c880788fa3041ed684a38c44ba7d63e0b040514b9530adbd1c) |
 | kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [1 MON](https://testnet.monadexplorer.com/tx/0x4e2cd1b38a352d42fbe93107c2b59b139228b6538cc15b4dc29831322be223fb) |
 | futuwxq         | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xc3d97d73066e323971e796e1f9240926ad2d39de41da76c1bf2840adecc7b2b2) |
+| xiaobaili2015   | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [1 MON](https://testnet.monadexplorer.com/tx/0xa519ab217c008ef8ae46ac7c212fca082dbe2744512508b10ef90c1923846e0f) |

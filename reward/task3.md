@@ -36,3 +36,4 @@
 | jeffierw      | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [1 MON](https://testnet.monadexplorer.com/tx/0x1a18c2f2d93a50ed2bd288cf4cc86ef847eb6720cf5e8397461807cb9d8e1591) |
 | futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xa307aeb5080c3c5f02b8cea66db5eaabbb8c6da92fe07d4ddea4f9029d78efc2) |
 | brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [1 MON](https://testnet.monadexplorer.com/tx/0x7e2194b0e29a116bc653638865682962278563ce53aff5e07ac8c02dad82ac38) |
+| xiaobaili2015 | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [1 MON](https://testnet.monadexplorer.com/tx/0x8d2d8d1c2b22b6f15d63fa1897ae3103864975249bb54193c4e2674c2bdf7f47) |
