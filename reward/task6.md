@@ -26,3 +26,6 @@
 | bigfatkevin     | 0x4F27608A7B82169946eA1d4B1D2069A52BA446aC | [4 MON](https://testnet.monadexplorer.com/tx/0x93b3f46de822f99b1f2618844a609080309b672923141a6aa01aaff7a41500a6) |
 | krypton         | 0xE8d9E2AA84f55a4350382570B545922405Cdb493 | [4 MON](https://testnet.monadexplorer.com/tx/0xb298189d3a912d547ac89232a58ea3d235cb2620cbb9fd676961f25e2f325900) |
 | kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [4 MON](https://testnet.monadexplorer.com/tx/0x46e29883213aafa21524719ee1842cdd15da2e740fc7d304cb6deb068c2a3a68) |
+| BrucerTao       | 0x1a8374b0F0D1074849e0cA31589532C2ad2806d8 | [4 MON](https://testnet.monadexplorer.com/tx/0xa7000dfd4de2ca33084da5cd234480ee8c51ba4c74aa90313d8f363bb748fa86) |
+| snow            | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [4 MON](https://testnet.monadexplorer.com/tx/0x0045ef568b1529eaba58c3c5b83d4f026dc2f21ab1bf49ce7842f98980c13f97) |
+| asheses         | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [4 MON](https://testnet.monadexplorer.com/tx/0xfb71ce0cc30245097412b90f939d4b3e04383f610c78d8a76ad553080c9121fa) |

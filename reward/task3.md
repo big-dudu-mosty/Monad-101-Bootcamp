@@ -37,3 +37,7 @@
 | futuwxq       | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xa307aeb5080c3c5f02b8cea66db5eaabbb8c6da92fe07d4ddea4f9029d78efc2) |
 | brightfrog    | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [1 MON](https://testnet.monadexplorer.com/tx/0x7e2194b0e29a116bc653638865682962278563ce53aff5e07ac8c02dad82ac38) |
 | xiaobaili2015 | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [1 MON](https://testnet.monadexplorer.com/tx/0x8d2d8d1c2b22b6f15d63fa1897ae3103864975249bb54193c4e2674c2bdf7f47) |
+| swiftlion2    | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [1 MON](https://testnet.monadexplorer.com/tx/0x8c62dcdf749e87fa4de3c8377a2d4a80235b7ef34b4acc370ed9e8c482feb922) |
+| morerich24    | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [1 MON](https://testnet.monadexplorer.com/tx/0x71281e6a1eb07c638a2ce87ab1eef68de4ed8fb6bd0ae44959f2b23ab3118d5b) |
+| snow          | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [1 MON](https://testnet.monadexplorer.com/tx/0xc8cf52a49b583650d46c0306d3f7ba91f468b27b007e587b01aef40f96cceace) |
+| poyone        | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [1 MON](https://testnet.monadexplorer.com/tx/0x7806a65c036bf6de0c2ccfb93c223940a95b4a268dad7dabe8080103b8fcd3b0) |

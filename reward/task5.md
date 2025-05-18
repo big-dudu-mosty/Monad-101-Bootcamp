@@ -30,3 +30,6 @@
 | kilien          | 0x5a9030cF04847cf3bD46A13d8C09AeD007673E0f | [1 MON](https://testnet.monadexplorer.com/tx/0x4e2cd1b38a352d42fbe93107c2b59b139228b6538cc15b4dc29831322be223fb) |
 | futuwxq         | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [1 MON](https://testnet.monadexplorer.com/tx/0xc3d97d73066e323971e796e1f9240926ad2d39de41da76c1bf2840adecc7b2b2) |
 | xiaobaili2015   | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [1 MON](https://testnet.monadexplorer.com/tx/0xa519ab217c008ef8ae46ac7c212fca082dbe2744512508b10ef90c1923846e0f) |
+| swiftlion2      | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [1 MON](https://testnet.monadexplorer.com/tx/0x8caf99f76bffcc6a948b5f42d3781b44ccbe0ec48ed1974703e4f9aae4addaae) |
+| snow            | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [1 MON](https://testnet.monadexplorer.com/tx/0x4a1f3b0771bbceb06091d942b671f857a12291e00e8db81bed43cda90bea6a81) |
+| asheses         | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [1 MON](https://testnet.monadexplorer.com/tx/0xdfa11d67e12e4136c02efd5fbcbba08cbb26524a0043ba96408dc8eb8e309e9a) |
