@@ -33,3 +33,9 @@
 | poyone          | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [4 MON](https://testnet.monadexplorer.com/tx/0x79ba91e6e2dd13c1e1b26f32293668c45e7e0fc8cc8cd6a39756a7360fca2721) |
 | jeffierw        | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [4 MON](https://testnet.monadexplorer.com/tx/0x04b8f02ae99993d3bd6d06c0e75fa67b2dc8b068a13a5e76408cee52f54da994) |
 | chord233        | 0xe90364b4a7e955a06d27ff67220869d0e8cfe093 | [4 MON](https://testnet.monadexplorer.com/tx/0x95a7c88a80cc67615788619009f31473876ba62caea1a01285c24c94c6a44859) |
+| futuwxq         | 0x48ec3468a26ce5aa77cf80d739fe35a1735304e1 | [4 MON](https://testnet.monadexplorer.com/tx/0x8136629db8dada63237cbfdc9eb7d99a2e9539348e686291022f810907ce8ebb) |
+| fufu0917        | 0xdc592e3723fc0d9412c1368146e112cfbbce77a9 | [4 MON](https://testnet.monadexplorer.com/tx/0xd3d17e74cf2470855e6cdc665bd7fd8b279179f61ac08264e8da909945bd2958) |
+| morerich24      | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [4 MON](https://testnet.monadexplorer.com/tx/0x5a0af92a75fca9d4501c5b5db9f2edd0266068eee330f173589f716e12e2b47a) |
+| swiftlion2      | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [4 MON](https://testnet.monadexplorer.com/tx/0x429dd0817ff97be40c0ca7a10c0bfa45c5e89570f142cc7fe8a328a5da64ece1) |
+| xiaobaili2015   | 0xc5cbde0b8d6d96d50171526616c713e66861c363 | [4 MON](https://testnet.monadexplorer.com/tx/0x4aa94a26cf41f214d0eba8faad8f3de707e5bffd47d13934637c03aad48f8aad) |
+| brightfrog      | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [4 MON](https://testnet.monadexplorer.com/tx/0xbe2a2920a5bb74d52cfbc1cd7a6eb5e2bed77a53adb1411d543ace357b8ea735) |

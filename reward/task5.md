@@ -37,3 +37,6 @@
 | poyone          | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [1 MON](https://testnet.monadexplorer.com/tx/0x972ac86fb0b4bebad94440c191136554d6878cb02b048dc056f00919fea68cf5) |
 | jeffierw        | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [1 MON](https://testnet.monadexplorer.com/tx/0xc4b7ed8c3a858ca10968afa3ae30dd4f993fda8189bfb5c4ae3987b9ac818284) |
 | chord233        | 0xe90364b4a7e955a06d27ff67220869d0e8cfe093 | [1 MON](https://testnet.monadexplorer.com/tx/0x95a7c88a80cc67615788619009f31473876ba62caea1a01285c24c94c6a44859) |
+| fufu0917        | 0xdc592e3723fc0d9412c1368146e112cfbbce77a9 | [1 MON](https://testnet.monadexplorer.com/tx/0xb3c1bf2804e6a2003293a57713e27258e1a2caed8317ca39f1ba909f33538bc2) |
+| morerich24      | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [1 MON](https://testnet.monadexplorer.com/tx/0x536eba4cde7c79a47cddc99f14f319e259b4caa1585006f73bdb563f2d15aa40) |
+| brightfrog      | 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c | [1 MON](https://testnet.monadexplorer.com/tx/0x6e1b41af58f2aba67cc5c687d89ce173ad88fabf7af341a6602b45f0fce659fc) |

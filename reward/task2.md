@@ -48,3 +48,4 @@
 | snow          | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x9742558d0bd3516050c498f945746c104e62f9f2242283790f56c7f03aea7b59) |
 | luky116       | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd68e466c15b1a2746aa6591e5c7733108cbe22098fa72949700c14a4e66614a5) |
 | chord233      | 0xe90364b4a7e955a06d27ff67220869d0e8cfe093 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x95a7c88a80cc67615788619009f31473876ba62caea1a01285c24c94c6a44859) |
+| fubmjuice     | 0xbdaea517920dc1a9e818df6a777dc41d25921811 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xd68c1f1eee0068320216d25fb0cf4d81179dea05433c6a4afaa50fb3d07cd750) |
