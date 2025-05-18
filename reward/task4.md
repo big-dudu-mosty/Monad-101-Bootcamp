@@ -38,3 +38,5 @@
 | morerich24    | 0x7bfd1d4f7e743e06a99137add0b4eb25f2479eb1 | [3 MON](https://testnet.monadexplorer.com/tx/0x895303cc31e31f6f5455533778f9a64d284ea783e2b776fed7c7d1a2d609a9b6) |
 | snow          | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [3 MON](https://testnet.monadexplorer.com/tx/0x42f0d3202781ed534b9f404b7c85b3d6bb7673a6c6ef3fbe014e09c0602b076c) |
 | asheses       | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [3 MON](https://testnet.monadexplorer.com/tx/0xd3da570857194b07b04a96d5c135f621398791ede569dc779216dd30a6402a8c) |
+| luky116       | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [3 MON](https://testnet.monadexplorer.com/tx/0xa2ac665cce806ee38f744cb0fc579d76287972458e20525b5db603a27d8d4914) |
+| poyone        | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [3 MON](https://testnet.monadexplorer.com/tx/0x9480d8d3398d200fa3fd63decdd8caa9a616054ec575a7c826d066475d1540bf) |

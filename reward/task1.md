@@ -46,4 +46,6 @@
 | siphonelee    | 0x47aCCDD4371ba9AD9C033b081F4c1c12D78E3F76 | [0.5 MON](https://testnet.monadexplorer.com/tx/0xc369bcfb29e8450ac1207c340af1404fef849d9d7ec9496fc3442f3ec9495854) |
 | poyone        | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [0.5 MON](https://testnet.monadexplorer.com/tx/0x874c3e9a9c46a3136a64b4462beae19e07627e705570c46fc84becc5fcc6e5b1) |
 | snow          | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x8888031abe846b9158d4f2cf62de4e66d1ce360bc367b282437c69f58352313b) |
+| luky116       | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [0.5 MON](https://testnet.monadexplorer.com/tx/0x2c5240407784cf8ccb21dea357370ff60f7a9b9cdafe871af57b2eeea60e3623) |
+
 

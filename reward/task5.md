@@ -33,3 +33,6 @@
 | swiftlion2      | 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6 | [1 MON](https://testnet.monadexplorer.com/tx/0x8caf99f76bffcc6a948b5f42d3781b44ccbe0ec48ed1974703e4f9aae4addaae) |
 | snow            | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [1 MON](https://testnet.monadexplorer.com/tx/0x4a1f3b0771bbceb06091d942b671f857a12291e00e8db81bed43cda90bea6a81) |
 | asheses         | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [1 MON](https://testnet.monadexplorer.com/tx/0xdfa11d67e12e4136c02efd5fbcbba08cbb26524a0043ba96408dc8eb8e309e9a) |
+| luky116         | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [1 MON](https://testnet.monadexplorer.com/tx/0x507cfd49d88856eac0c561a09687074015dd0549b7eeaf2f41f9c30abb9ab24e) |
+| poyone          | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [1 MON](https://testnet.monadexplorer.com/tx/0x972ac86fb0b4bebad94440c191136554d6878cb02b048dc056f00919fea68cf5) |
+| jeffierw        | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [1 MON](https://testnet.monadexplorer.com/tx/0xc4b7ed8c3a858ca10968afa3ae30dd4f993fda8189bfb5c4ae3987b9ac818284) |

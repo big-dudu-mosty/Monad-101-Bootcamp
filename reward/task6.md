@@ -29,3 +29,6 @@
 | BrucerTao       | 0x1a8374b0F0D1074849e0cA31589532C2ad2806d8 | [4 MON](https://testnet.monadexplorer.com/tx/0xa7000dfd4de2ca33084da5cd234480ee8c51ba4c74aa90313d8f363bb748fa86) |
 | snow            | 0x14b5a58dd98facea003421fb91c7ecd7f3741ff0 | [4 MON](https://testnet.monadexplorer.com/tx/0x0045ef568b1529eaba58c3c5b83d4f026dc2f21ab1bf49ce7842f98980c13f97) |
 | asheses         | 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B | [4 MON](https://testnet.monadexplorer.com/tx/0xfb71ce0cc30245097412b90f939d4b3e04383f610c78d8a76ad553080c9121fa) |
+| luky116         | 0xf80183AA5d79597aC47488AAaAD7937C9C4dd569 | [4 MON](https://testnet.monadexplorer.com/tx/0x294386a01b462cc9190e3423b545db4c04b3a2d65bc874f26fb86eedcad1f15d) | 
+| poyone          | 0x56dA7a0458e405428f2F7d456497D5fa8b083EeC | [4 MON](https://testnet.monadexplorer.com/tx/0x79ba91e6e2dd13c1e1b26f32293668c45e7e0fc8cc8cd6a39756a7360fca2721) |
+| jeffierw        | 0x119b4976ca5d34a7ed501b8fba9f629ad58a4435 | [4 MON](https://testnet.monadexplorer.com/tx/0x04b8f02ae99993d3bd6d06c0e75fa67b2dc8b068a13a5e76408cee52f54da994) |
