@@ -1,0 +1,6 @@
+## 第三章：Solidity 开发到部署
+
+1. 在 Monad Testnet 上部署一个 NFT 合约，并提交交易哈希  
+	tx:
+MyNFT deployed to: 0xe7f1725E7734CE288F8367e1Bb143E90bb3F0512
+Transaction Hash: 0xf82b7ec23c3953a477418dc64ce2b448359bde2cc5e06511209ae635a1f55888
