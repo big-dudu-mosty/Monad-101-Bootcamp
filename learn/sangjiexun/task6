@@ -1,0 +1,91 @@
+## 第六章：Monad 项目实战
+
+1. 实现一个Blink相关的项目，并提交项目代码。
+### 项目结构
+```plaintext
+d:\Monad-101-Bootcamp\blink-monad-project
+├── contracts
+│   └── BlinkContract.sol
+├── scripts
+│   └── deploy.js
+└── hardhat.config.js
+ ```
+```
+
+### 1. 智能合约代码 BlinkContract.sol
+```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+
+contract BlinkContract {
+    event BlinkTriggered(address indexed user, string message);
+
+    // 触发 Blink 事件的函数
+    function triggerBlink(string memory _message) public {
+        emit BlinkTriggered(msg.sender, _message);
+    }
+}
+ ```
+```
+
+### 2. 部署脚本 deploy.js
+```javascript
+async function main() {
+    const [deployer] = await ethers.getSigners();
+    console.log("Deploying contracts with the account:", deployer.address);
+
+    const BlinkContract = await ethers.getContractFactory("BlinkContract");
+    const blinkContract = await BlinkContract.deploy();
+
+    console.log("BlinkContract address:", await blinkContract.getAddress());
+}
+
+main()
+    .then(() => process.exit(0))
+    .catch((error) => {
+        console.error(error);
+        process.exit(1);
+    });
+ ```
+```
+
+### 3. Hardhat 配置文件 hardhat.config.js
+```javascript
+require("@nomicfoundation/hardhat-toolbox");
+
+module.exports = {
+    solidity: "0.8.0",
+    networks: {
+        // 可根据 Monad 网络配置修改
+        monadTestnet: {
+            url: "YOUR_MONAD_RPC_URL",
+            accounts: ["YOUR_PRIVATE_KEY"],
+        },
+    },
+};
+ ```
+```
+
+### 运行步骤
+1. 初始化项目：
+```bash
+npm init -y
+npm install --save-dev hardhat @nomicfoundation/hardhat-toolbox @openzeppelin/contracts
+npx hardhat
+ ```
+```
+
+2. 将上述代码分别复制到对应的文件中。
+3. 配置 hardhat.config.js 里的 YOUR_MONAD_RPC_URL 和 YOUR_PRIVATE_KEY 。
+4. 编译合约：
+```bash
+npx hardhat compile
+ ```
+
+5. 部署合约：
+```bash
+npx hardhat run scripts/deploy.js --network monadTestnet
+ ```
+```
+
+你可以根据实际需求对这个项目进行调整和扩展。如果 “Blink” 有其他含义，请提供更多信息。
