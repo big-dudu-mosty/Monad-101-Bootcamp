@@ -1,0 +1,55 @@
+## 第二章：Solidity 快速入门
+
+### 一、填空题
+
+1. Solidity中存储成本最高的变量类型是`storage`变量，其数据永久存储在区块链上。  
+2. 使用`constant`关键字声明的常量可以节省Gas费，其值必须在编译时确定。  
+4. 当合约收到不带任何数据的以太转账时，会自动触发`receive`函数。  
+
+---
+
+### 二、选择题
+
+4. 函数选择器(selector)的计算方法是： A 
+   **A)** sha3(函数签名)  
+   **B)** 函数名哈希的前4字节  
+   **C)** 函数参数的ABI编码  
+   **D)** 函数返回值的类型哈希  
+
+5. 以下关于mapping的叙述错误的是：  C
+   **A)** 键类型可以是任意基本类型  
+   **B)** 值类型支持嵌套mapping  
+   **C)** 可以通过`length`属性获取大小  
+   **D)** 无法直接遍历所有键值对  
+
+---
+
+### 三、简答题
+
+6. 请说明`require`、`assert`、`revert`三者的使用场景差异（从触发条件和Gas退还角度）
+
+- require ：用于校验外部输入或业务逻辑条件（如参数合法性），失败时回滚并返回自定义错误信息。
+- assert ：用于检测代码内部不变式（如逻辑错误），失败通常表示代码存在严重问题（如溢出未处理）。
+- revert ：手动触发回滚，功能与 require 类似，但支持更灵活的错误信息构造（如通过 revert ErrorMessage(arg) ）。
+
+7. 某合约同时继承A和B合约，两者都有`foo()`函数：
+
+```solidity
+contract C is A, B {
+    function foo() override(A,B) {...}
+}
+```
+
+实际执行时会调用哪个父合约的函数？为什么？
+
+实际执行的是合约 C 自身定义的 foo() 函数。 原因： override(A,B) 表示 C 的 foo() 函数覆盖了父合约 A 和 B 的同名函数。在Solidity继承规则中，子合约显式定义的函数会覆盖所有父合约的同名函数，因此调用 C.foo() 时直接执行子合约的实现。
+
+8. 当使用`call`方法发送ETH时，以下两种写法有何本质区别？
+
+```solidity
+(1) addr.call{value: 1 ether}("")
+(2) addr.transfer(1 ether)
+```
+
+- addr.call{value: 1 ether}("") ：使用 call 方法发送ETH，允许传递任意Gas（默认使用剩余全部Gas），接收方合约的 receive 或 fallback 函数可执行更多操作（如调用其他合约），更灵活但需手动处理错误（通过返回值判断是否成功）。
+- addr.transfer(1 ether) ： transfer 是早期方法，固定使用2300 Gas，若接收方是合约且其 receive / fallback 需要消耗更多Gas（如记录日志），会导致交易失败（因Gas不足）。 transfer 已不推荐使用（Solidity 0.8+建议用 call 替代）。
