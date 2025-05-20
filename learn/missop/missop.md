@@ -4,3 +4,4 @@
 - Twitter:   W Judy
 - 自我介绍：  my name is missop,i am good at frontend.i am very interested in web3,
 and in my view,monard is a very High-potential project.
+- EVM钱包地址： 0xc7853977e7cf088e72536f005678c2e31d4c08b4
