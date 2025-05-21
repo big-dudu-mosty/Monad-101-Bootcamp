@@ -1,0 +1,6 @@
+- 昵称： swiftlion2
+- GitHub 用户名： swiftlion2
+- EVM 钱包地址： 0x743d2db67eb7ddcf6177ef53aa76e15893e1ece6
+- 技术栈： Python Solidity
+- Twitter: https://x.com/weizhihe2024
+- 自我介绍： 3 年数据分析 钓鱼佬

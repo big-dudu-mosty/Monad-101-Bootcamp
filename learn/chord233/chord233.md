@@ -1,0 +1,6 @@
+- 昵称：chord
+- GitHub 用户名：chord233
+- EVM 钱包地址：0xe90364b4a7e955a06d27ff67220869d0e8cfe093
+- 技术栈：C/C++,python,javascript
+- Twitter: chord244
+- 自我介绍：学过很多东西，互联网全栈，软硬件全栈开发，目前想做depin

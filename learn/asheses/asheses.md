@@ -1,0 +1,6 @@
+- 昵称：xxx
+- GitHub 用户名：asheses
+- 技术栈：React、JavaScript、solidity、
+- Twitter: https://x.com/jinwanqu150561
+- 自我介绍：目前在做区块链相关的项目，对区块链技术有浓厚兴趣，对React、JavaScript、solidity等技术有一定了解。
+- 账号: 0x177eEF851a55020F92cc4ce0eE06eeA9062cf34B

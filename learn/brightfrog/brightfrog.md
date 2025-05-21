@@ -1,0 +1,6 @@
+- 昵称： brightfrog
+- GitHub 用户名： brightfrog
+- EVM 钱包地址： 0x53a09dac16d6f9dc5ab3d1c963453aa1c268cd5c
+- 技术栈： Java
+- Twitter: https://x.com/xiaobaili2015
+- 自我介绍： 后端开发 学习 Solidity
