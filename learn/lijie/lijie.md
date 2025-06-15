@@ -1,0 +1,6 @@
+- 昵称：  jayce
+- GitHub 用户名：  lijie-aa
+- EVM 钱包地址：  0x5f78e3eb266Ab6bB1dA6Af7b467FEde0B277A8BC
+- 技术栈：  java
+- Twitter:   
+- 自我介绍：  java后端开发学习web3
