@@ -111,10 +111,10 @@
 #### Monad
 
 1. [Monad 的并行执行](https://github.com/monad-cn/docs/blob/main/articles/104_Monad%E7%9A%84%E5%B9%B6%E8%A1%8C%E6%89%A7%E8%A1%8C.md)  
-2. [Monad vs Rollups ](https://gmonad.cc/blog/monad_vs_rollups.html)  
-3. [Monad工作原理](https://gmonad.cc/blog/how_monad_work.html)  
-4. [Monad 的安全优势](https://gmonad.cc/blog/security_benefits_of_monad.html)  
-5. [浅析  MonadBFT](https://gmonad.cc/blog/monadbft_intro.html)
+2. [Monad vs Rollups ](https://gmonad.cc/blogs/3)  
+3. [Monad工作原理](https://gmonad.cc/blogs/6)  
+4. [Monad 的安全优势](https://gmonad.cc/blogs/2)  
+5. [浅析  MonadBFT](https://gmonad.cc/blogs/4)
 6. [用 Scaffold-Eth-Monad 开发 Dapp](https://docs.monad.xyz/guides/scaffold-eth-monad)  
 
 #### Dapp 
