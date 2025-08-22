@@ -1,0 +1,6 @@
+- 昵称： ZSYcho
+- GitHub 用户名： ZSYcho
+- EVM 钱包地址：0x4e4E5774bad80Dbc1DCD3075636B664dcd96591e
+- 技术栈：  Solidity（正在学习中）
+- Twitter:   @kevin0A0
+- 自我介绍：  从0开始的web3世界区块链开发者学习之路，始终坚信“AI是生产力，区块链是生产关系变革的前沿力量”！
